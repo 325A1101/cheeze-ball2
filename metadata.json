@@ -1,0 +1,6 @@
+{
+  "name": "情報システム学科AIプログラミング専攻2年 チーズボール屋台フェス",
+  "description": "学園祭のチーズボール屋台特設サイト！アゲアゲな公式ソング、豪華おまけルーレット、のび〜るチーズ体験、オーダー計算機完備！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
